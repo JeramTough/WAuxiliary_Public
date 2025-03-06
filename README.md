@@ -48,7 +48,7 @@
 ## 说明 / Desc:
 
 Wechat 辅助性功能增强
-> 在 GitHub 页面点击右上角 ⭐ Star 以支持我在空余时间继续开发
+> 在 GitHub 点击右上角 ⭐ Star 以支持我在空余时间继续开发
 - 一切开发旨在学习，请勿用于非法用途
 - 鉴于项目的特殊性，开发团队可能在任何时间**停止更新**或**删除项目**
 
@@ -63,72 +63,7 @@ Wechat 辅助性功能增强
         <td align="center"><b>适配版本</b></td>
     </tr>
     <tr>
-        <td align="center">阻止撤回</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">自动登录</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">自动原图</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">模拟扫码</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">文章多窗</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">订阅列表</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">通话限制</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">表情游戏</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">虚拟定位</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">语音时长</td>
-        <td align="center">✅</td>
-        <td align="center">8.0.31+</td>
-    </tr>
-    <tr>
-        <td align="center">平板模式</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">圆形头像</td>
-        <td align="center">✅</td>
-        <td align="center">理论全版本</td>
-    </tr>
-    <tr>
-        <td align="center">消息详情</td>
-        <td align="center">✅</td>
-        <td align="center">8.0.45</td>
-    </tr>
-    <tr>
-        <td align="center">其他功能</td>
+        <td align="center">❓功能</td>
         <td align="center">❓</td>
         <td align="center">❓</td>
     </tr>
